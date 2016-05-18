@@ -4,7 +4,7 @@ Breadth-first search (BFS) implementation for an authorship network.
 ### Project Infos
 * **Date:** Semester 2 - 2014/2015 (March 2015)
 * **Topic:** Distance from a person/authorship network (Distance from node S using BFS)
-* **Course:** Análise e Sítese de Algoritmos (ASA) | Algorithm Analysis
+* **Course:** Análise e Síntese de Algoritmos (ASA) | Algorithm Analysis
 * **Course Link:** https://fenix.tecnico.ulisboa.pt/disciplinas/ASA1011/2014-2015/2-semestre/
 
 
